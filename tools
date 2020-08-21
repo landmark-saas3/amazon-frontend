@@ -1,0 +1,17 @@
+aws
+Landmark Technology
+SEVERLESS
+Gut - Versoning
+GitHub, BitBucket, GitLab - DVCS
+Build
+Maven
+ANt
+AWS CodeBuild
+Build - output
+jar - standalone
+war - web
+ear - Enterprise
+SonarQube/JFrog
+Code Qua lity
+Private - Nexus/JFrog/DPR/ECR
+Public - DockerHub
