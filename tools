@@ -1,8 +1,8 @@
 aws
 Landmark Technology
 SEVERLESS
-Gut - Versoning
-GitHub, BitBucket, GitLab - DVCS
+Git - Versioning
+GitHub, Bitbucket, GitLab - DVCS
 Build
 Maven
 ANt
@@ -14,4 +14,4 @@ ear - Enterprise
 SonarQube/JFrog
 Code Qua lity
 Private - Nexus/JFrog/DPR/ECR
-Public - DockerHub
+Public -DockerHub
