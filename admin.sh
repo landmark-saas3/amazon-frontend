@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-simon
+Peter
+Simon 
 Anna
-=======
 Dev-Frida
->>>>>>> development
-Divine
+
